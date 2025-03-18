@@ -4,7 +4,7 @@ A simple stopwatch web application built using HTML, CSS, and JavaScript. The st
 
 ## 🚀 Features  
 - Start and Stop the timer with a single button  
-- Reset the timer to `00:00:00`  
+- Reset the timer to `00:00:00`   
 - Record lap times while the stopwatch is running  
 - Display recorded lap times  
 
